@@ -4,7 +4,9 @@
 - Heart Design is a project aimed at creating a beautiful and creative design of a heart using HTML and CSS.
 - This project is open-source and free for everyone to contribute to and use.<hr>
 <h1 align=" center" >Heart Design Logo</h1>
-
+<p  align=" center" >
+<img height="200" wedith="200" src="https://th.bing.com/th/id/OIP.AAAJiEng_CEXdSXVwSrIMAHaEo?pid=ImgDet&rs=1"></p>
+  
 <hr>
 <h1 align=" center" >Getting Started</h1>
 
