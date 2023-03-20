@@ -8,13 +8,13 @@
 <img height="200" wedith="200" src="https://th.bing.com/th/id/OIP.AAAJiEng_CEXdSXVwSrIMAHaEo?pid=ImgDet&rs=1"></p>
   
 <hr>
-<h1 align=" center" >Getting Started</h1>
+<h1 align=" center" >Getting Started🔆</h1>
 
 - To get started with the Heart Design project, follow these steps:
 - Clone the repository to your
-<h3 align=" center" >local machine: </h3>
+<h3 align=" center" >local machine:📺 </h3>
 
-<p  align=" center" >git clone :<br> https://github.com/your_username/heart-design.git</p>
+<p  align=" center" >git clone :📝<br> https://github.com/your_username/heart-design.git</p>
   
 - Navigate to the project directory: cd heart-design
 - Choose the programming language you want to work with and navigate to the corresponding directory.
@@ -28,7 +28,7 @@
 <div align="left" >
 <img height="100" wedith="100" src="https://th.bing.com/th/id/OIP.Isi5uf1b_fxf3bDcEYj-9AHaHa?pid=ImgDet&rs=1"></div>
 <hr>
-<h1 align=" center" >Modifying the Design</h1>
+<h1 align=" center" >Modifying the Design👩‍💻</h1>
 
 - To modify the heart design, follow these steps:
 - Open the index.html file in your text editor.
@@ -37,14 +37,14 @@
 - Modify the CSS code to change the styling of the heart.
 - Save your changes.
 - Refresh the index.html file in your web browser to see the updated heart design.<hr>
-<h1 align=" center" >Contributing</h1>
+<h1 align=" center" >Contributing👬</h1>
 
 - We welcome contributions from everyone! To contribute to the project, follow these steps:
 - Fork the repository to your GitHub account.
 - Clone the repository to your.
- <h3 align=" center" >local machine: </h3>
+ <h3 align=" center" >local machine:📺 </h3>
 
-<p  align=" center" >git clone :<br> https://github.com/your_username/heart-design.git</p>
+<p  align=" center" >git clone :📝<br> https://github.com/your_username/heart-design.git</p>
   
 - Create a new branch: git checkout -b my-new-feature
 - Make your changes and commit them: git commit -m "Add my new feature"
@@ -52,11 +52,11 @@
 - Create a pull request on the main repository.
 - Please make sure to follow our code of conduct, which can be found in the CODE_OF_CONDUCT.md file.
 <hr>
-<h1 align=" center" >Contributors</h1>
+<h1 align=" center" >Contributors👬</h1>
 
 - Himanshu vashistha (@himanshuvashistha)
 <hr>
-<h1 align=" center" >License</h1>
+<h1 align=" center" >License📙</h1>
 
 - This project is licensed under the MIT License - see the LICENSE file for details.
 <hr>
