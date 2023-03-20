@@ -22,8 +22,9 @@
 - Open the index.html file in your web browser.
 - You will see a beautiful heart design created using HTML and CSS.<hr>
 <h1 align="center" >Requirements🧾</h1>
-<p  align=" right" >
-<img height="200" wedith="200" src="https://th.bing.com/th/id/OIP.Isi5uf1b_fxf3bDcEYj-9AHaHa?pid=ImgDet&rs=1"></p>
+<a align=" right" >
+<img height="200" wedith="200" src="https://th.bing.com/th/id/OIP.Isi5uf1b_fxf3bDcEYj-9AHaHa?pid=ImgDet&rs=1"></a>
+
 - HTML
 - CSS<hr>
 <h1 align=" center" >Modifying the Design</h1>
