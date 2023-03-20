@@ -12,7 +12,7 @@
 - Clone the repository to your
 <h3 align=" center" >local machine: </h3>
 
-<p  align=" center" >git clone : https://github.com/your_username/heart-design.git</p>
+<p  align=" center" >git clone :<br> https://github.com/your_username/heart-design.git</p>
   
 - Navigate to the project directory: cd heart-design
 - Choose the programming language you want to work with and navigate to the corresponding directory.
@@ -32,7 +32,11 @@
 
 - We welcome contributions from everyone! To contribute to the project, follow these steps:
 - Fork the repository to your GitHub account.
-- Clone the repository to your local machine: git clone https://github.com/your_username/heart-design.git
+- Clone the repository to your.
+ <h3 align=" center" >local machine: </h3>
+
+<p  align=" center" >git clone :<br> https://github.com/your_username/heart-design.git</p>
+  
 - Create a new branch: git checkout -b my-new-feature
 - Make your changes and commit them: git commit -m "Add my new feature"
 - Push your changes to your fork: git push origin my-new-feature
