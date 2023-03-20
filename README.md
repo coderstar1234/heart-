@@ -1,6 +1,6 @@
 <h1 align=" center" >HEART DESIGN ❤️❤️</h1>
 
-- The love for design in heart.💕❤️
+- The love for design in heart.💕
 - Heart Design is a project aimed at creating a beautiful and creative design of a heart using HTML and CSS.
 - This project is open-source and free for everyone to contribute to and use.<hr>
 <h1 align=" center" >Heart Design Logo</h1>
