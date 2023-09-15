@@ -8,7 +8,7 @@
 <img height="200" wedith="200" src="https://th.bing.com/th/id/OIP.AAAJiEng_CEXdSXVwSrIMAHaEo?pid=ImgDet&rs=1"></p>
   
 <hr>
-<h1 align=" center" >Getting Started🔆</h1>
+<h1 align=" center" >Getting Started:-🔆</h1>
 
 - To get started with the Heart Design project, follow these steps:
 - Clone the repository to your
