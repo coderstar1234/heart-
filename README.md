@@ -12,7 +12,7 @@
 
 - To get started with the Heart Design project, follow these steps:
 - Clone the repository to your
-<h3 align=" center" >local machine:📺 </h3>
+<h3 align=" center" >local machine:-📺 </h3>
 
 <p  align=" center" >git clone :📝<br> https://github.com/your_username/heart-design.git</p>
   
