@@ -52,7 +52,7 @@
 - Create a pull request on the main repository.
 - Please make sure to follow our code of conduct, which can be found in the CODE_OF_CONDUCT.md file.
 <hr>
-<h1 align=" center" >Contributors👬</h1>
+<h1 align=" center" >Contributors:👬</h1>
 
 - Himanshu vashistha (@himanshuvashistha)
 <hr>
