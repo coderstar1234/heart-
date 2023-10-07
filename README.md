@@ -56,7 +56,7 @@
 
 - Himanshu vashistha (@himanshuvashistha)
 <hr>
-<h1 align=" center" >License📙</h1>
+<h1 align=" center" >License:-📙</h1>
 
 - This project is licensed under the MIT License - see the LICENSE file for details.
 <hr>
