@@ -44,7 +44,7 @@
 - Clone the repository to your.
  <h3 align=" center" >local machine:📺 </h3>
 
-<p  align=" center" >git clone :📝<br> https://github.com/your_username/heart-design.git</p>
+<p  align=" center" >git clone :-📝<br> https://github.com/your_username/heart-design.git</p>
   
 - Create a new branch: git checkout -b my-new-feature
 - Make your changes and commit them: git commit -m "Add my new feature"
