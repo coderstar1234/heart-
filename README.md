@@ -37,7 +37,7 @@
 - Modify the CSS code to change the styling of the heart.
 - Save your changes.
 - Refresh the index.html file in your web browser to see the updated heart design.<hr>
-<h1 align=" center" >Contributing👬</h1>
+<h1 align=" center" >Contributing:-👬</h1>
 
 - We welcome contributions from everyone! To contribute to the project, follow these steps:
 - Fork the repository to your GitHub account.
