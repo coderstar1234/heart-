@@ -14,7 +14,7 @@
 - Clone the repository to your
 <h3 align=" center" >local machine:-📺 </h3>
 
-<p  align=" center" >git clone :📝<br> https://github.com/your_username/heart-design.git</p>
+<p  align=" center" >git clone :-📝<br> https://github.com/your_username/heart-design.git</p>
   
 - Navigate to the project directory: cd heart-design
 - Choose the programming language you want to work with and navigate to the corresponding directory.
