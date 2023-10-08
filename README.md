@@ -42,7 +42,7 @@
 - We welcome contributions from everyone! To contribute to the project, follow these steps:
 - Fork the repository to your GitHub account.
 - Clone the repository to your.
- <h3 align=" center" >local machine:📺 </h3>
+ <h3 align=" center" >local machine:-📺 </h3>
 
 <p  align=" center" >git clone :-📝<br> https://github.com/your_username/heart-design.git</p>
   
