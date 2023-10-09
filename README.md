@@ -20,7 +20,8 @@
 - Choose the programming language you want to work with and navigate to the corresponding directory.
 - Follow the instructions in the README file of the language directory to create your own Heart Design.
 - Open the index.html file in your web browser.
-- You will see a beautiful heart design created using HTML and CSS.<hr>
+- You will see a beautiful heart design created using HTML and CSS.
+<hr>
 <h1 align="center" >Requirements:-🧾</h1>
 
 - HTML
